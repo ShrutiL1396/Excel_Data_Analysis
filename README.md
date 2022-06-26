@@ -13,15 +13,15 @@ These being :-
 
 
 ## Dashboard 
-![Yelp Business Columns](https://github.com/ShrutiL1396/PySpark/blob/main/Yelp_Project/Yelp_Bizz.jpg) </br>
+![Dashboard](https://github.com/ShrutiL1396/Excel_Data_Analysis/blob/main/Dashboard.PNG) </br>
 
 
 ## Contents
-- [Yelp Project](https://github.com/ShrutiL1396/PySpark/tree/main/Yelp_Project) <br/>
+- [Please download to view Analysis](https://github.com/ShrutiL1396/Excel_Data_Analysis/blob/main/Excel%20Project%20Dataset.xlsx) <br/>
 
 
 ## Contact
 Shruti Shivaji Lanke - <br/>
 shrutilanke13@gmail.com or slanke1@student.gsu.edu <br/>
 Project Link - <br/>
-https://github.com/ShrutiL1396/PySpark/tree/main/Yelp_Project
+https://github.com/ShrutiL1396/Excel_Data_Analysis
